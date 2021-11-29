@@ -1,2 +1,2 @@
 # Designs
- Designs I create for clients and friends.
+ Designs I created for clients and friends.
